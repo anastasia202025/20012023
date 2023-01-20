@@ -24,3 +24,4 @@ if ( thirdNumber > max )
     max = thirdNumber;
 }
  Console.WriteLine ($"Максимальное число = {max}");
+ 
